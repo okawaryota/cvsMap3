@@ -30,7 +30,6 @@ class ofApp : public ofBaseApp{
     
     ofxCsv csv;
     float top;
-    float top_arry[];
-    
+    ofImage shibuya;
     
 };
